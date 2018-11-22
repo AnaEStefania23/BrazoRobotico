@@ -21,11 +21,16 @@ Las funciones básicas que el brazo lleva a cabo sen la de programar y ejecutar.
     • Interfaz de usuario fue elaborada en el lenguaje Java. 
     • Circuito armado para su correcto funcionamiento 
     
+ # Lista de materiales
+ 
+    
 # Contenido
-•Diagrama brazo.fzz : Diagrama de las conexiones y componentes realizados para hacer la práctica hecha en Fritzing.
-•Código Brazo.ino 
+•Diagrama-->  brazo.fzz : Diagrama de las conexiones y componentes realizados para hacer la práctica hecha en Fritzing.
+•Código-->bracito.ino 
 •PruebaJava
 •Evidencias Linux 
+
+
 
 # Elaborado por:
 Christian Josué Acosta Maldonado
