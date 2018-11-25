@@ -49,8 +49,10 @@ en la interfaz.
 •Código Java --->  Interfaz_Brazo.java
 
 •Librerías utilizadas
-    * PanamaHitek_Arduino-3.0.0
-    * RXTXcomm.jar
+
+     * PanamaHitek_Arduino-3.0.0
+     
+     * RXTXcomm.jar
 
 •Imagenes de prueba:
     
