@@ -34,16 +34,45 @@ en la interfaz.
     • Circuito armado para su correcto funcionamiento 
     
  # Lista de materiales
- 
+    ° Esqueleto de brazo(acrilico) 
+    ° 3 servo motores
+    ° 1 motor a pasos
+    ° protoboard
+    ° cables, macho-macho, macho-hembra, hembra-hembra
+    ° Arduino UNO
     
 # Contenido
-•Diagrama-->  brazo.fzz : Diagrama de las conexiones y componentes realizados para hacer la práctica hecha en Fritzing.
-•Código Arduino -->bracito.ino 
-•Código Java ---> brazo
-•Evidencias Linux 
+•Diagrama-->  brazo.fzz 
+
+•Código Arduino -->  bracito.ino 
+
+•Código Java --->  Interfaz_Brazo.java
+
+•Librerías utilizadas
+
+•Imagenes de prueba:
+    
+    *brazo01.jpg	
+    *brazo02.jpg
+    *brazo03.jpg
+    *brazo04.jpg
+
+•Evidencias Linux:
+    
+     *brazoLinux.png
+     *evidenciaLinux.png
+
+•Imagen diagrama
+    
+    *brazoDiabrama.jpg
+
+
 
 
 
 # Elaborado por:
-Christian Josué Acosta Maldonado
 Ana Estefanía Mejía Rocha
+
+Christian Josué Acosta Maldonado
+
+
