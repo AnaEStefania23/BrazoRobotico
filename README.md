@@ -44,7 +44,7 @@ También cuanta con un botón de paro de emergencia, que si se presiona, este pu
     °Resistencia 220
     
 # Contenido
-•Diagrama-->  DIAGRAMA_BRAZO.fzz 
+•Diagrama--> brazo_diagrama.fzz
 
 •Código Arduino -->Brazo_robot.ino
 
@@ -65,12 +65,12 @@ También cuanta con un botón de paro de emergencia, que si se presiona, este pu
 
 •Evidencias Linux:
     
-     *brazoLinux.png
-     *evidenciaLinux.png
+     *prueba_linux2.png
+     *prueba_brazo3.png
 
 •Imagen diagrama
     
-    *Diabrama.jpg
+    *Diabrama.png
 
 
 
