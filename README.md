@@ -20,9 +20,8 @@ Cuenta con diferentes acciones sobre el brazo:
 
 • Bajar hombro
 
-La interfaz es de uso intuitivo, esta tiene dos modos de operación:
-modo programación y modo remoto, donde puedes ejecutar las funciones del brazo con el teclado o bien, por medio de controles
-en la interfaz.
+La interfaz es de uso intuitivo,esta funciona de la siguente manes:
+puedes presionar variar funciones como: subir, bajr, abrir, cerrar y despues presiona el botón ejecutar, para que este guarde y ejecute los movimientos que deseas.
 
 
 # Requisitos para utilizar el programa
@@ -40,13 +39,15 @@ en la interfaz.
     ° protoboard
     ° cables, macho-macho, macho-hembra, hembra-hembra
     ° Arduino UNO
+    °Botón
+    °Resistencia 220
     
 # Contenido
-•Diagrama-->  brazo.fzz 
+•Diagrama-->  DIAGRAMA_BRAZO.fzz 
 
-•Código Arduino -->  bracito.ino 
+•Código Arduino -->Brazo_robot.ino
 
-•Código Java --->  Interfaz_Brazo.java
+•Código Java --->  brazo.java (incluye form, de la interfaz)
 
 •Librerías utilizadas
 
@@ -68,7 +69,7 @@ en la interfaz.
 
 •Imagen diagrama
     
-    *brazoDiabrama.jpg
+    *Diabrama.jpg
 
 
 
