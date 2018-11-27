@@ -48,7 +48,7 @@ También cuanta con un botón de paro de emergencia, que si se presiona, este pu
 
 •Código Arduino -->Brazo_robot.ino
 
-•Código Java --->  brazo.java (incluye form, de la interfaz)
+•Código Java --->  brazo.java
 
 •Librerías utilizadas
 
