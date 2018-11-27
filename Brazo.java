@@ -20,13 +20,13 @@ public class Brazo extends JFrame {
 //Secrean los elementos de la interfaz, botones, panel, y label
     JButton Izquierda; //boton que girará al motor a pasos a la izquierda
     JButton Derecha; //boton que girará al motor a pasos a la derecha
-    JButton Arriba; 
-    JButton Abajo;
-    JButton Abrir;
-    JButton Cerrar;
-    JButton Avanzar;
-    JButton Regresar;
-    JButton Ejecutar;
+    JButton Arriba; //boton que moverá al hombro
+    JButton Abajo;//boton que moverá al hombro
+    JButton Abrir;//boton que moverá a la pinza
+    JButton Cerrar;//boton que moverá al pinza
+    JButton Avanzar;//boton que moverá al codo
+    JButton Regresar;//boton que moverá al codo
+    JButton Ejecutar;//boton que moverá todos los movimientos almacenados
     Container contenedor;
     JPanel panel1, panel2, panel3;
     JLabel f;
