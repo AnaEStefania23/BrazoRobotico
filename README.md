@@ -22,6 +22,7 @@ Cuenta con diferentes acciones sobre el brazo:
 
 La interfaz es de uso intuitivo,esta funciona de la siguente manes:
 puedes presionar variar funciones como: subir, bajr, abrir, cerrar y despues presiona el botón ejecutar, para que este guarde y ejecute los movimientos que deseas.
+También cuanta con un botón de paro de emergencia, que si se presiona, este puede parar automaticamente los movimientos del robot
 
 
 # Requisitos para utilizar el programa
